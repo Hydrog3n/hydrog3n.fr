@@ -1,0 +1,21 @@
+{
+  "name": "hydrog3n.fr",
+  "version": "0.0.0",
+  "authors": [
+    "hydrog3n <loic.vaille@gmail.com>"
+  ],
+  "description": "homepage hydrog3n.fr",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "fontawesome": "~4.4.0"
+  }
+}

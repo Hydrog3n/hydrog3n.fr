@@ -1,0 +1,16 @@
+body {
+	background-color: #74b964
+}
+
+.icones {
+	margin-top: 20px;
+}
+
+.fat {
+	font-size: 100px;
+	margin: 10px;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+	background-color: #6474b9;
+	color: #b96474
+}
